@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 
 ![App Brewery Banner](Documentation/AppBreweryBanner.png)
 
@@ -61,3 +62,7 @@ You will program a trivia quiz app. If you have another field of expertise such 
 >This is a companion project to The App Brewery's Complete App Development Bootcamp, check out the full course at [www.appbrewery.co](https://www.appbrewery.co/)
 
 ![End Banner](Documentation/readme-end-banner.png)
+=======
+# history_quiz
+## 한국사 퀴즈
+>>>>>>> 972a1d900df3e4bf870fc17af4200b5a1c40588b
